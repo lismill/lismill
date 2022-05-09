@@ -27,6 +27,7 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 
 * [vite2-vue3.x-typescript](https://lismill.github.io/vite2-vue3.x-typescript-framework)
 * [vue3.x-typescript](https://lismill.github.io/vue3.x-typescript-framework)
+* [react-typescript](https://lismill.github.io/react-typescript-framework)
 
 **🍉 Other Repositories**
 
