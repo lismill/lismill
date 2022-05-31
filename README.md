@@ -21,7 +21,7 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 
 **✨ Skills**
 
-* HTML | JavaScript | TypeScript | CSS | SCSS & LESS | Vue.js | React | Node.js | Python
+* HTML | JavaScript | TypeScript | CSS | SCSS & LESS | Photoshop | Vue.js | React | Node.js | Python | JAVA
 
 **🟢 Online Preview**
 
@@ -29,6 +29,9 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 * [framework-vite2-vue3.x-typescript](https://lismill.github.io/vite2-vue3.x-typescript-framework)
 * [framework-vue3.x-typescript](https://lismill.github.io/vue3.x-typescript-framework)
 * [framework-react-typescript](https://lismill.github.io/react-typescript-framework)
+* [framework-egg-project](https://github.com/lismill/create_egg_project)
+* [framework-flask-project](https://github.com/leeleanlean/create_python_flask_project)
+* [framework-springboot-project](https://github.com/leeleanlean/create_springboot_project)
 
 **🍉 Other Repositories**
 
