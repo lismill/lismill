@@ -26,6 +26,8 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 **🟢 Online Preview**
 
 * [Blogs](https://github.com/leeleanlean/Blogs)
+
+* [framework-vite2-vue3.x-typescript-arco](https://github.com/lismill/vite2-vue3.x-typescript-arco-framework)
 * [framework-vite2-vue3.x-typescript](https://lismill.github.io/vite2-vue3.x-typescript-framework)
 * [framework-vue3.x-typescript](https://lismill.github.io/vue3.x-typescript-framework)
 * [framework-react-typescript](https://lismill.github.io/react-typescript-framework)
