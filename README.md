@@ -34,7 +34,7 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 * [framework-egg-project](https://github.com/lismill/create_egg_project)
 * [framework-flask-project](https://github.com/leeleanlean/create_python_flask_project)
 * [framework-springboot-project](https://github.com/leeleanlean/create_springboot_project)
-* [create-nestjs-project](https://github.com/lismill/create-nestjs-project)
+* [framework-nestjs-project](https://github.com/lismill/create-nestjs-project)
 
 **🍉 Other Repositories**
 
